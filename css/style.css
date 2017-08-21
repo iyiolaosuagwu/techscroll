@@ -1,0 +1,192 @@
+body{
+	margin-top: 70px;
+	font-size: 16px;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: Poppins;
+}
+
+p {
+	font-family: Roboto;
+}
+.navbar-default{
+	background: #000;
+	opacity: 0.7;
+	border: 0;
+	font-family: Poppins;
+	margin-right: 40px;
+	margin-left: 40px;
+}  
+
+.navbar-brand{
+	font-size: 20px;
+	color: #ffffff !important;
+	font-weight: bold;
+}
+.navbar-default #navbar  a{
+	color: #ffffff !important;
+	font-family: Poppins;
+	font-weight: bold;
+
+}
+
+#showcase h1{
+	font-size: 40px;
+	margin-bottom: 20px;
+
+}
+#showcase .showcase-left img{
+	width: 80%;
+	margin-top: 30px;
+	/*margin-left: 60px*/
+}
+
+#showcase .showcase-right{
+	margin-top: 90px;
+}
+
+
+ /*testimonial*/
+ #testimonial{
+ 	background:#f1f1f1;
+ 	padding: 50px 0 30px 0;
+ 	text-align: center;
+ 	margin-top: 40px;
+ 	height: 350px;
+ 	margin-right: 40px;
+ 	margin-left: 40px;
+ }
+
+ #testimonial p{
+ 	font-size: 32px;
+ 	font-family: "Josefin Sans";
+ 	color: #000;
+ 	margin-top: 40px;
+
+ }
+
+ #testimonial p.customer{
+ 	font-size: 25px;
+ 	height: 120px;
+ 	color: #666;
+ }
+
+ /*info 1*/
+#features{
+	height: 450px;
+}
+
+#features .feature-right{
+	margin-top: 110px;
+	height: 300px;
+	margin-bottom: 110px;
+}
+
+#features .feature-left{
+	margin-top: 50px;
+	height: 300px;
+}
+
+ #features .feature-right ul li{
+ 	color: #666;
+ 	font-family: "Josefin Sans";
+ 	font-size: 20px;
+
+ }
+
+ #features .feature-left img{
+ 	width: 100%;
+ 	margin-top: 40px;
+ 	
+ 	
+ }
+   /*jumbotron*/
+ #jumbotron{
+      background-image: url('../img/beoplay-a1-7.jpg');
+      color: #fff;
+      padding: 100px 25px;
+      background-size: cover;
+      height: 450px;
+      background-attachment: fixed;
+      
+}
+#jumbotron .jumbotron-right p{
+	
+	font-family: "Josefin Sans";
+	font-size: 20px;
+}
+   /*jumbotron 2*/
+#Subscribe{
+      background-image: url('../img/slide2.jpg');
+      color: #34495E;
+      padding: 100px 25px;
+      background-size: cover;
+      height: 450px;
+      
+}
+#Subscribe .Sub-scribe-right2 p{
+	
+	font-family: "Josefin Sans";
+	font-size: 20px;
+}
+  
+
+
+#pricing .pricing-right{
+	margin-top: 90px;
+	height: 300px;
+}
+
+#pricing .pricing-right img{
+	width: 500px;
+	margin-top-top: 40px;
+}
+
+#pricing .pricing-left{
+	margin-top: 80px;
+	height: 300px;
+}
+
+#pricing .pricing-left p{
+	font-size: 20px;
+	font-family: "Josefin Sans";
+}
+#pricing{
+	height: 450px;
+
+}
+#pricing .pricing-left img{
+     width: 150px;
+}
+
+ /*FORM*/
+#form {
+	background-image: url(../img/Background-Wallpaper-For-Photo-Editing-15.jpg);
+	background-attachment: fixed;
+}
+#form .form-left h2, label{
+	color: #ffffff;
+}
+.form-right h2{
+	color: #ffffff;
+} 
+
+
+/*Footer*/
+#footer{
+	background: #D5D8DC;
+	width: 100;
+	height: 100;
+	overflow: hidden;
+	padding-top: 75px;
+	padding-bottom: 20px;
+}
+
+#footer .footer-left img{
+	width: 80;
+	height: 30;
+}
+
+
